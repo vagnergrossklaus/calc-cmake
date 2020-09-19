@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../calc/src/calc/calculator.h
+
+/home/vagner/Development/github/calc-cmake/calc-exe/main.cpp
+iostream
+-
+calc/calculator.h
+-
+

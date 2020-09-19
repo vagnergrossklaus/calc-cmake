@@ -1,0 +1,8 @@
+/home/vagner/Development/github/calc-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/vagner/Development/github/calc-cmake/build/CMakeFiles/edit_cache.dir
+/home/vagner/Development/github/calc-cmake/build/calc/CMakeFiles/rebuild_cache.dir
+/home/vagner/Development/github/calc-cmake/build/calc/CMakeFiles/edit_cache.dir
+/home/vagner/Development/github/calc-cmake/build/calc/CMakeFiles/calc.dir
+/home/vagner/Development/github/calc-cmake/build/calc-exe/CMakeFiles/rebuild_cache.dir
+/home/vagner/Development/github/calc-cmake/build/calc-exe/CMakeFiles/edit_cache.dir
+/home/vagner/Development/github/calc-cmake/build/calc-exe/CMakeFiles/calc-exe.dir

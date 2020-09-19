@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/calc-exe.dir/main.cpp.o  -o calc-exe  -Wl,-rpath,/home/vagner/Development/github/calc-cmake/build/calc ../calc/libcalc.so 

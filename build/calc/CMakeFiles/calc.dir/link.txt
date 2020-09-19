@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libcalc.so -o libcalc.so CMakeFiles/calc.dir/src/calc/calculator.cpp.o 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vagner/Development/github/calc-cmake/build/calc",
+  "command": "/usr/bin/c++  -Dcalc_EXPORTS -I/home/vagner/Development/github/calc-cmake/calc/src  -g -fPIC   -o CMakeFiles/calc.dir/src/calc/calculator.cpp.o -c /home/vagner/Development/github/calc-cmake/calc/src/calc/calculator.cpp",
+  "file": "/home/vagner/Development/github/calc-cmake/calc/src/calc/calculator.cpp"
+},
+{
+  "directory": "/home/vagner/Development/github/calc-cmake/build/calc-exe",
+  "command": "/usr/bin/c++   -I/home/vagner/Development/github/calc-cmake/calc/src  -g   -o CMakeFiles/calc-exe.dir/main.cpp.o -c /home/vagner/Development/github/calc-cmake/calc-exe/main.cpp",
+  "file": "/home/vagner/Development/github/calc-cmake/calc-exe/main.cpp"
+}
+]
